@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">RNCodepushTest</string>
-    <string moduleConfig="true" name="CodePushDeploymentKey">dk_rX3aaPqcrZAOEp_DPZXOjGc-Pk3V320b5006-f795-48b8-a4aa-c12ddb078a49</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">dk_FGhdPQBVXe75sq9h0bWv3rfBhUqo320b5006-f795-48b8-a4aa-c12ddb078a49</string>
     <string moduleConfig="true" name="CodePushServerUrl">https://dev-api.appcircle.io/codepush</string>
 </resources>
